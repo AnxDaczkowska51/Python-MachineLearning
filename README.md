@@ -1,6 +1,6 @@
 # Python-MachineLearning
 
-### Ideą projektu jest zastosowanie perceptronu do klasyfikacji liter alfabetu oraz demonstrację wpływu uszkodzeń danych na wyniki klasyfikacji.
+### Zastosowanie perceptronu do klasyfikacji liter alfabetu oraz demonstracja wpływu uszkodzeń danych na wyniki klasyfikacji.
 
 ## Wczytanie danych z pliku
 <img width="655" alt="Zrzut ekranu 2023-06-1 o 22 29 13" src="https://github.com/AnxDaczkowska51/Python-MachineLearning/assets/117481394/2f39abbd-0ddd-47d8-ae8e-0ed0d32409e1">
