@@ -23,8 +23,7 @@
 
 
 ## Utworzenie obiektu klasy SLP o nazwie net
-<img width="483" alt="Zrzut ekranu 2023-06-1 o 22 49 16" src="https://github.com/AnxDaczkowska51/Python-MachineLearning/assets/117481394/4fcd90a2-1f8a-4c3c-9111-36b9590792a3">
-
+<img width="474" alt="Zrzut ekranu 2023-06-1 o 23 00 39" src="https://github.com/AnxDaczkowska51/Python-MachineLearning/assets/117481394/5a3cd10c-4d90-42c8-bd71-37da4d54c68f">
 
 ## Wyświetlenie danych ze zbioru X:
 <img width="721" alt="Zrzut ekranu 2023-06-1 o 22 51 22" src="https://github.com/AnxDaczkowska51/Python-MachineLearning/assets/117481394/0e693438-ed2a-43b5-8ba5-3ff5a333498d">
@@ -32,7 +31,6 @@
 
 ## Uczenie modelu za pomocą metody fit(X, y):
 <img width="517" alt="Zrzut ekranu 2023-06-1 o 22 53 54" src="https://github.com/AnxDaczkowska51/Python-MachineLearning/assets/117481394/81246c46-4bd9-4dc9-b91c-cf2064e611b6">
-
 
 ## Wynik predict() dla zbioru uczącego X:
 <img width="505" alt="Zrzut ekranu 2023-06-1 o 22 56 52" src="https://github.com/AnxDaczkowska51/Python-MachineLearning/assets/117481394/e7fddc6b-b9de-4297-a12f-a9bd31071c92">
